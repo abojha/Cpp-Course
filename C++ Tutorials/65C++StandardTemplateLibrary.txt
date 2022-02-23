@@ -1,0 +1,27 @@
+// for competitve programming
+
+                  STL -> Standard Template Library
+               Library of generic classes and fucntions
+ 
+Why Use STL:-
+    * Reuse Well Tested Classes and Function.
+    * Time Saved.
+    * because do not reinvent the wheel.
+      
+
+Componenets of STL:-
+    * Containers   
+        -Stores Data
+        -Use Template classes
+
+    * Algorithms   
+        -Sorting Algo, Seraching Algo etc.
+        -Use Template Function
+
+    * Iterators
+        -Object that points to an elements in a container.
+        -Handled just like pointers.
+        -Connect Algo with Containers.
+
+          
+

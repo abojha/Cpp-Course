@@ -1,0 +1,25 @@
+ Object Oriented Programming in c++
+ *Works on the concept of classes and objects
+   *A class is a template to create objects
+   *Treats data as a critical element
+   *Decomposes the problem in objects and builds data and function around the objects
+
+Terminology in OOPS : -
+
+1. Class:- Basic template for creating objects
+2. Objects:- Basic run time entities.
+3.Data abstraction & Encapsulation:- Wrapping data and funtion into single unit.
+4. Inheritence:- Properties of one class can inherited into others.
+5.Polymorphism:- Ability to take more than one forms.
+6.Dynamic Binding:- Code which will execute is not knwos until the program.
+7.Message Passing:- Object message(information) call format.
+
+
+Benefits of OOPs:-
+
+* Better code reusuability using objects and inheritance.
+* Principle of data hiding helps  build secure systems.
+* Multiple objects can co-exist without any inheritance.
+*Software complexity can be easily managed.
+ 
+ 

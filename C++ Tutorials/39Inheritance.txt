@@ -1,0 +1,35 @@
+##################################### Inheritance:- #############################
+
+* Reusability is very important feature of OOPs.
+* In C++ we can reuse a class and add additional feature to it.
+* Reusing classes saves time and money.
+* Reusing already tested and debugged class will save a lot of effort of developing and debugging the same thing again.
+
+
+############################## What is Inheritance in C++? ######################
+* The concept of Reusability in C++ is supported using Inheritance.
+* We can reuse the propoerties of an existing class by inheriting from it.
+* The existing class is called Base class.
+* The new class which is inherited is called as the Derived Data.
+* Reusing classes saves time and money.
+* There are different types of inheritance in C++.
+
+
+###############################   Types Of Inheritance ###########################
+*Single Inheritance:- 
+    A Derived class with only One Base Class.
+
+*Multiple Inheritance:-
+    A Derived Class with More than One Base Class.
+    
+*Hierarchical  Inheritance:-
+    Several Derived classes from a Single Base Class.
+
+*Multilevel Inheritance:-
+    Deriving a class from already Derived Class
+
+*Hybrid Inheritance:-
+    Hybrid Inheritance is combination of Multiple Inheritance and Multilevel Inheritance.
+    A Class is Derived from two class as in Multiple Inheritance.
+    However, one of the Parent class is not a Base Class.
+
